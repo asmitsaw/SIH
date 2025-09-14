@@ -1,6 +1,6 @@
 import { Link, Stack } from "expo-router";
 import { StyleSheet, Text, View } from "react-native";
-
+//hello// This is the 404 (not found) screen
 export default function NotFoundScreen() {
   return (
     <>
